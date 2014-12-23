@@ -1,5 +1,5 @@
 hello-world
 ===========
 
-learngit
-sdfsdfdsf
+ - learn git
+ - I better.
